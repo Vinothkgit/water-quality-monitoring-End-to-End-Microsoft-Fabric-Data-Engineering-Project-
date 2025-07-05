@@ -77,3 +77,6 @@ Connect live API feed for real-time streaming
 Vinoth
 LinkedIn: https://www.linkedin.com/in/vino-r-mt/
 Email: rvkmt15@gmail.com
+
+📌 Tags
+#MicrosoftFabric #DataEngineering #SparkSQL #PowerBI #Lakehouse #EPA #WaterQuality #MedallionArchitecture
